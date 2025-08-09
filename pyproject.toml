@@ -1,0 +1,11 @@
+[project]
+name = "web-scrape-source-mockup"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.116.1",
+    "logfire>=4.2.0",
+    "uvicorn>=0.35.0",
+]

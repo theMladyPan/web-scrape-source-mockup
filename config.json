@@ -1,0 +1,100 @@
+{
+    "https://www.sliac.sk": {
+        "cron": "0 0 * * *",
+        "alias": "www.sliac.sk",
+        "timeout": 10800,
+        "ignore": false,
+        "depth": 3
+    },
+    "https://www.senec.sk": {
+        "cron": "15 0 * * *",
+        "alias": "www.senec.sk",
+        "timeout": 10800,
+        "ignore": false,
+        "depth": 3
+    },
+    "https://www.novezamky.sk": {
+        "cron": "30 0 * * *",
+        "alias": "www.novezamky.sk",
+        "timeout": 10800,
+        "ignore": false,
+        "depth": 3
+    },
+    "https://www.pribelce.sk": {
+        "cron": "45 0 * * *",
+        "alias": "www.pribelce.sk",
+        "timeout": 10800,
+        "ignore": false,
+        "depth": 3
+    },
+    "https://www.sverzov.sk": {
+        "cron": "45 0 * * *",
+        "alias": "www.sverzov.sk",
+        "timeout": 10800,
+        "ignore": false,
+        "depth": 3
+    },
+    "https://www.novadubnica.eu": {
+        "cron": "0 1 * * *",
+        "alias": "www.novadubnica.eu",
+        "timeout": 10800,
+        "ignore": false,
+        "depth": 3
+    },
+    "https://www.cabov.sk": {
+        "cron": "0 1 * * *",
+        "alias": "www.cabov.sk",
+        "timeout": 10800,
+        "ignore": false,
+        "depth": 3
+    },
+    "https://www.lipkazdravia.sk": {
+        "cron": "15 1 * * *",
+        "alias": "www.lipkazdravia.sk",
+        "timeout": 10800,
+        "ignore": false,
+        "depth": 3
+    },
+    "https://www.moloko.sk": {
+        "cron": "30 1 * * *",
+        "alias": "www.moloko.sk",
+        "timeout": 10800,
+        "ignore": false,
+        "depth": 3
+    },
+    "https://www.bicycles.sk": {
+        "cron": "45 1 * * *",
+        "alias": "www.bicycles.sk",
+        "timeout": 10800,
+        "ignore": false,
+        "depth": 3
+    },
+    "https://sk.eurotools.eu/": {
+        "cron": "0 2 * * *",
+        "alias": "www.somgurman.sk",
+        "timeout": 10800,
+        "ignore": false,
+        "depth": 3
+    },
+    "https://www.pilulka.sk": {
+        "cron": "15 2 * * *",
+        "alias": "www.pilulka.sk",
+        "timeout": 10800,
+        "ignore": false,
+        "depth": 2
+    },
+    "https://www.nealko-vino.sk": {
+        "cron": "0 2 1 * *",
+        "alias": "www.somgurman.sk",
+        "timeout": 10800,
+        "ignore": false,
+        "depth": 3
+    },
+    "https://www.mzhc.sk/": {
+        "cron": "0 2 1 * *",
+        "alias": "www.hlohovec.sk",
+        "timeout": 10800,
+        "ignore": false,
+        "depth": 3
+    }
+}
