@@ -17,12 +17,7 @@ with open("config.json", "r") as file:
     jobs_dict = json.load(file)
 
 
-import time
-
-ts = time.perf_counter_ns()
 jobs: JobsModel = JobsModel.model_validate(jobs_dict)
-te = time.perf_counter_ns()
-print(f"Loaded jobs in {te - ts}ns, {(te-ts)/10**3:.03}us")
 
 
 app = FastAPI()
