@@ -6,7 +6,7 @@
         "ignore": false,
         "depth": 1
     },
-    "https//www.webygroup.sk": {
+    "https://www.webygroup.sk": {
         "cron": "*/5 * * * *",
         "alias": "www.webygroup.sk",
         "timeout": 600,
